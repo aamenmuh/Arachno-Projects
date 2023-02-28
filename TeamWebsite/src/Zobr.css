@@ -1,0 +1,26 @@
+::-webkit-scrollbar {
+    display: none;
+    overflow: hidden;
+}
+body {
+    cursor: url("../assets/curs.svg"), auto;
+    overflow:hidden;
+}
+.r-cursor-1loqt21 {
+    cursor: url("../assets/curs2.svg"), auto;
+}
+.r-1loqt21 {
+    cursor: url("../assets/curs2.svg"), auto;
+}
+.css-cursor-18t94o4 {
+    cursor: url("../assets/curs2.svg"), auto;
+}
+image{
+    width:100%;
+}
+svg{
+    width:100%;
+}
+Text{
+    font-size:12vw;
+}
